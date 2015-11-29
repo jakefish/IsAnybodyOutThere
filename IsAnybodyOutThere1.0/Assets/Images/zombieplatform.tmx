@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="splashlogo_transparent2" tilewidth="32" tileheight="32" tilecount="390">
+  <image source="../../splashlogo_transparent2.png" width="860" height="486"/>
+ </tileset>
+ <tileset firstgid="391" name="ScatteriaPyxelEdit" tilewidth="32" tileheight="32" tilecount="324">
+  <image source="../../ScatteriaPyxelEdit.png" width="576" height="576"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0bsNgDAMQEF7/5n4TRA+C+GGBiFo0nEnPSlOUiURAAD0NGTEWE3VXC35vfd0Th+t3nKttmrP9/la3+8c/gMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH7lBNi2HDg=
+  </data>
+ </layer>
+</map>
